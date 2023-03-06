@@ -17,6 +17,7 @@
 		02BFDA2229B50C67001B3732 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA2129B50C67001B3732 /* EnvironmentObjectBootcamp.swift */; };
 		02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */; };
 		02D0AC9F29B5E58800AAC1EE /* IndentifiableBootmcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */; };
+		02D0ACA129B5F16100AAC1EE /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		02BFDA2129B50C67001B3732 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
 		02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndentifiableBootmcamp.swift; sourceTree = "<group>"; };
+		02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				02BFDA2129B50C67001B3732 /* EnvironmentObjectBootcamp.swift */,
 				02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */,
 				02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */,
+				02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */,
 			);
 			path = SwiftUiCookBook;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */,
 				02BFDA1E29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift in Sources */,
 				02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */,
+				02D0ACA129B5F16100AAC1EE /* EscapingBootcamp.swift in Sources */,
 				02BFDA2229B50C67001B3732 /* EnvironmentObjectBootcamp.swift in Sources */,
 				02D0AC9F29B5E58800AAC1EE /* IndentifiableBootmcamp.swift in Sources */,
 			);
