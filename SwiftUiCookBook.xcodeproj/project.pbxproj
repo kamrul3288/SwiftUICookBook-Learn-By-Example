@@ -15,6 +15,7 @@
 		02BFDA1A29B4A0A6001B3732 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA1929B4A0A6001B3732 /* BindingBootcamp.swift */; };
 		02BFDA1E29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA1D29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift */; };
 		02BFDA2229B50C67001B3732 /* EnvironmentObjectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA2129B50C67001B3732 /* EnvironmentObjectBootcamp.swift */; };
+		02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		02BFDA1929B4A0A6001B3732 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		02BFDA1D29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObsevableAndStateObjectBootcamp.swift; sourceTree = "<group>"; };
 		02BFDA2129B50C67001B3732 /* EnvironmentObjectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectBootcamp.swift; sourceTree = "<group>"; };
+		02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				02BFDA1929B4A0A6001B3732 /* BindingBootcamp.swift */,
 				02BFDA1D29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift */,
 				02BFDA2129B50C67001B3732 /* EnvironmentObjectBootcamp.swift */,
+				02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */,
 			);
 			path = SwiftUiCookBook;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				02BFDA1829B49998001B3732 /* StateBootmcamp.swift in Sources */,
 				02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */,
 				02BFDA1E29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift in Sources */,
+				02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */,
 				02BFDA2229B50C67001B3732 /* EnvironmentObjectBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
