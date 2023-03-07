@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct DownloadWithEscapingBootcamp: View {
+struct DownloadWithEscaping: View {
     @StateObject var viewModel = DownloadWithEscapingViewModel()
     var body: some View {
         List{
@@ -78,8 +78,8 @@ struct PostModel:Identifiable,Codable{
     let body:String
 }
 
-struct DownloadWithEscapingBootcamp_Previews: PreviewProvider {
+struct DownloadWithEscaping_Previews: PreviewProvider {
     static var previews: some View {
-        DownloadWithEscapingBootcamp()
+        DownloadWithEscaping()
     }
 }
