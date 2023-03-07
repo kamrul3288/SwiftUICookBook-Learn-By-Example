@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0220C41429B721B90047718E /* CodeableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41329B721B90047718E /* CodeableBootcamp.swift */; };
+		0220C41729B731D90047718E /* DownloadWithEscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41629B731D90047718E /* DownloadWithEscapingBootcamp.swift */; };
 		02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA0829B4989F001B3732 /* SwiftUiCookBookApp.swift */; };
 		02BFDA0B29B4989F001B3732 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA0A29B4989F001B3732 /* ContentView.swift */; };
 		02BFDA0D29B498A0001B3732 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02BFDA0C29B498A0001B3732 /* Assets.xcassets */; };
@@ -23,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		0220C41329B721B90047718E /* CodeableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeableBootcamp.swift; sourceTree = "<group>"; };
+		0220C41629B731D90047718E /* DownloadWithEscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootcamp.swift; sourceTree = "<group>"; };
 		02BFDA0529B4989F001B3732 /* SwiftUiCookBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiCookBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BFDA0829B4989F001B3732 /* SwiftUiCookBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiCookBookApp.swift; sourceTree = "<group>"; };
 		02BFDA0A29B4989F001B3732 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,6 +50,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0220C41529B731780047718E /* URLSession */ = {
+			isa = PBXGroup;
+			children = (
+				0220C41629B731D90047718E /* DownloadWithEscapingBootcamp.swift */,
+			);
+			path = URLSession;
+			sourceTree = "<group>";
+		};
 		02BFD9FC29B4989F001B3732 = {
 			isa = PBXGroup;
 			children = (
@@ -70,6 +80,7 @@
 				02BFDA1629B49948001B3732 /* Core */,
 				02BFDA0C29B498A0001B3732 /* Assets.xcassets */,
 				02BFDA0E29B498A0001B3732 /* Preview Content */,
+				0220C41529B731780047718E /* URLSession */,
 				02BFDA1729B49998001B3732 /* StateBootmcamp.swift */,
 				02BFDA1929B4A0A6001B3732 /* BindingBootcamp.swift */,
 				02BFDA1D29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift */,
@@ -174,6 +185,7 @@
 				02BFDA0B29B4989F001B3732 /* ContentView.swift in Sources */,
 				02BFDA1829B49998001B3732 /* StateBootmcamp.swift in Sources */,
 				02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */,
+				0220C41729B731D90047718E /* DownloadWithEscapingBootcamp.swift in Sources */,
 				02BFDA1E29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift in Sources */,
 				02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */,
 				02D0ACA129B5F16100AAC1EE /* EscapingBootcamp.swift in Sources */,
