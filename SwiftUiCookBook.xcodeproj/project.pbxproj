@@ -22,6 +22,7 @@
 		02D0AC9F29B5E58800AAC1EE /* IndentifiableBootmcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */; };
 		02D0ACA129B5F16100AAC1EE /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */; };
 		02ED102429B9C5D1007F9803 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */; };
+		02ED102629B9DEB5007F9803 /* TextFiledBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndentifiableBootmcamp.swift; sourceTree = "<group>"; };
 		02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
 		02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
+		02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFiledBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */,
+				02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			files = (
 				02BFDA1A29B4A0A6001B3732 /* BindingBootcamp.swift in Sources */,
 				0220C41429B721B90047718E /* CodeableBootcamp.swift in Sources */,
+				02ED102629B9DEB5007F9803 /* TextFiledBootcamp.swift in Sources */,
 				02BFDA0B29B4989F001B3732 /* ContentView.swift in Sources */,
 				02BFDA1829B49998001B3732 /* StateBootmcamp.swift in Sources */,
 				02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */,

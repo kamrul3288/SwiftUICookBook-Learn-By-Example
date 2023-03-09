@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUiCookBookApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TextFiledBootcamp()
         }
     }
 }
