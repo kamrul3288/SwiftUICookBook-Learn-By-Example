@@ -21,6 +21,7 @@
 		02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */; };
 		02D0AC9F29B5E58800AAC1EE /* IndentifiableBootmcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */; };
 		02D0ACA129B5F16100AAC1EE /* EscapingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */; };
+		02DF960029BDB77900ECCD00 /* BottomSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DF95FF29BDB77900ECCD00 /* BottomSheetBootcamp.swift */; };
 		02ED102429B9C5D1007F9803 /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */; };
 		02ED102629B9DEB5007F9803 /* TextFiledBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -41,6 +42,7 @@
 		02D0AC9C29B5C68900AAC1EE /* WeakSelfBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfBootcamp.swift; sourceTree = "<group>"; };
 		02D0AC9E29B5E58800AAC1EE /* IndentifiableBootmcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndentifiableBootmcamp.swift; sourceTree = "<group>"; };
 		02D0ACA029B5F16100AAC1EE /* EscapingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootcamp.swift; sourceTree = "<group>"; };
+		02DF95FF29BDB77900ECCD00 /* BottomSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomSheetBootcamp.swift; sourceTree = "<group>"; };
 		02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
 		02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFiledBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -123,6 +125,7 @@
 			children = (
 				02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */,
 				02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */,
+				02DF95FF29BDB77900ECCD00 /* BottomSheetBootcamp.swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -205,6 +208,7 @@
 				02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */,
 				02ED102429B9C5D1007F9803 /* ButtonBootcamp.swift in Sources */,
 				0220C41929B740380047718E /* DownloadWithCombine.swift in Sources */,
+				02DF960029BDB77900ECCD00 /* BottomSheetBootcamp.swift in Sources */,
 				0220C41729B731D90047718E /* DownloadWithEscaping.swift in Sources */,
 				02BFDA1E29B4AD76001B3732 /* ObsevableAndStateObjectBootcamp.swift in Sources */,
 				02D0AC9D29B5C68900AAC1EE /* WeakSelfBootcamp.swift in Sources */,
