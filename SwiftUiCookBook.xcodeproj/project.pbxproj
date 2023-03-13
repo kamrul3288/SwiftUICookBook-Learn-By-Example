@@ -10,6 +10,7 @@
 		0220C41429B721B90047718E /* CodeableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41329B721B90047718E /* CodeableBootcamp.swift */; };
 		0220C41729B731D90047718E /* DownloadWithEscaping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41629B731D90047718E /* DownloadWithEscaping.swift */; };
 		0220C41929B740380047718E /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41829B740380047718E /* DownloadWithCombine.swift */; };
+		027D422029BEF64C00B6168E /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D421F29BEF64C00B6168E /* DragGestureBootcamp.swift */; };
 		02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA0829B4989F001B3732 /* SwiftUiCookBookApp.swift */; };
 		02BFDA0B29B4989F001B3732 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA0A29B4989F001B3732 /* ContentView.swift */; };
 		02BFDA0D29B498A0001B3732 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02BFDA0C29B498A0001B3732 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 		0220C41329B721B90047718E /* CodeableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeableBootcamp.swift; sourceTree = "<group>"; };
 		0220C41629B731D90047718E /* DownloadWithEscaping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscaping.swift; sourceTree = "<group>"; };
 		0220C41829B740380047718E /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		027D421F29BEF64C00B6168E /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		02BFDA0529B4989F001B3732 /* SwiftUiCookBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiCookBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BFDA0829B4989F001B3732 /* SwiftUiCookBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiCookBookApp.swift; sourceTree = "<group>"; };
 		02BFDA0A29B4989F001B3732 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 			children = (
 				02ED102329B9C5D1007F9803 /* ButtonBootcamp.swift */,
 				02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */,
+				027D421F29BEF64C00B6168E /* DragGestureBootcamp.swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				027D422029BEF64C00B6168E /* DragGestureBootcamp.swift in Sources */,
 				02BFDA1A29B4A0A6001B3732 /* BindingBootcamp.swift in Sources */,
 				0220C41429B721B90047718E /* CodeableBootcamp.swift in Sources */,
 				02ED102629B9DEB5007F9803 /* TextFiledBootcamp.swift in Sources */,

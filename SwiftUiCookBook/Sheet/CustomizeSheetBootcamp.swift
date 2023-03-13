@@ -64,17 +64,17 @@ struct CustomizeSheetBootcamp : View{
                         .frame(maxHeight: .infinity,alignment: .top)
                         
                     }
-                    .offset(y:height-120)
-                    .offset(y: -offset > 0 ? -offset <= (height-120) ? offset : -(height-120) : 0)
+                        .offset(y:height-120)
+                        .offset(y:-offset > 0 ? -offset <= (height-120) ? offset : -(height-120) : 0)
                     .gesture(DragGesture().updating($gestureOffset, body: { value, out, _ in
                         out = value.translation.height
                         onChnage()
                     }).onEnded({ value in
-                        let maxHeight = height - 100
+                        let maxHeight = height - 120
                         withAnimation {
                             // logic conditions for moving state
                             // up sown or mid
-                            if -offset > 100 && -offset < maxHeight/2{
+                            if -offset > 120 && -offset < maxHeight/2{
                                 //mid position
                                 offset = -(maxHeight/3)
                             }else if -offset > maxHeight / 2 {
