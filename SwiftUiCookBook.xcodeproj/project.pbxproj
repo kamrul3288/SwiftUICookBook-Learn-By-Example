@@ -10,9 +10,10 @@
 		0220C41429B721B90047718E /* CodeableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41329B721B90047718E /* CodeableBootcamp.swift */; };
 		0220C41729B731D90047718E /* DownloadWithEscaping.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41629B731D90047718E /* DownloadWithEscaping.swift */; };
 		0220C41929B740380047718E /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0220C41829B740380047718E /* DownloadWithCombine.swift */; };
+		026A0A1929C04B8900F69C52 /* TabBarBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 026A0A1829C04B8900F69C52 /* TabBarBootcamp.swift */; };
 		027D422029BEF64C00B6168E /* DragGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D421F29BEF64C00B6168E /* DragGestureBootcamp.swift */; };
 		027D422229BEFBF800B6168E /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D422129BEFBF800B6168E /* TabViewBootcamp.swift */; };
-		027D422429BF0A1A00B6168E /* TabBarViewBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D422329BF0A1A00B6168E /* TabBarViewBootcamp2.swift */; };
+		027D422429BF0A1A00B6168E /* CustomTabViewBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D422329BF0A1A00B6168E /* CustomTabViewBootcamp2.swift */; };
 		027D422829BF37C100B6168E /* SlideMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027D422729BF37C100B6168E /* SlideMenuBootcamp.swift */; };
 		02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA0829B4989F001B3732 /* SwiftUiCookBookApp.swift */; };
 		02BFDA0B29B4989F001B3732 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BFDA0A29B4989F001B3732 /* ContentView.swift */; };
@@ -36,9 +37,10 @@
 		0220C41329B721B90047718E /* CodeableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeableBootcamp.swift; sourceTree = "<group>"; };
 		0220C41629B731D90047718E /* DownloadWithEscaping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscaping.swift; sourceTree = "<group>"; };
 		0220C41829B740380047718E /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		026A0A1829C04B8900F69C52 /* TabBarBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarBootcamp.swift; sourceTree = "<group>"; };
 		027D421F29BEF64C00B6168E /* DragGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp.swift; sourceTree = "<group>"; };
 		027D422129BEFBF800B6168E /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
-		027D422329BF0A1A00B6168E /* TabBarViewBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewBootcamp2.swift; sourceTree = "<group>"; };
+		027D422329BF0A1A00B6168E /* CustomTabViewBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabViewBootcamp2.swift; sourceTree = "<group>"; };
 		027D422729BF37C100B6168E /* SlideMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideMenuBootcamp.swift; sourceTree = "<group>"; };
 		02BFDA0529B4989F001B3732 /* SwiftUiCookBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiCookBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02BFDA0829B4989F001B3732 /* SwiftUiCookBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiCookBookApp.swift; sourceTree = "<group>"; };
@@ -150,8 +152,9 @@
 				02ED102529B9DEB5007F9803 /* TextFiledBootcamp.swift */,
 				027D421F29BEF64C00B6168E /* DragGestureBootcamp.swift */,
 				027D422129BEFBF800B6168E /* TabViewBootcamp.swift */,
-				027D422329BF0A1A00B6168E /* TabBarViewBootcamp2.swift */,
+				027D422329BF0A1A00B6168E /* CustomTabViewBootcamp2.swift */,
 				027D422729BF37C100B6168E /* SlideMenuBootcamp.swift */,
+				026A0A1829C04B8900F69C52 /* TabBarBootcamp.swift */,
 			);
 			path = SwiftUI;
 			sourceTree = "<group>";
@@ -228,12 +231,13 @@
 			files = (
 				027D422029BEF64C00B6168E /* DragGestureBootcamp.swift in Sources */,
 				02BFDA1A29B4A0A6001B3732 /* BindingBootcamp.swift in Sources */,
+				026A0A1929C04B8900F69C52 /* TabBarBootcamp.swift in Sources */,
 				0220C41429B721B90047718E /* CodeableBootcamp.swift in Sources */,
 				02ED102629B9DEB5007F9803 /* TextFiledBootcamp.swift in Sources */,
 				02BFDA0B29B4989F001B3732 /* ContentView.swift in Sources */,
 				027D422829BF37C100B6168E /* SlideMenuBootcamp.swift in Sources */,
 				02DF960529BDD19E00ECCD00 /* BottomSheetBG.swift in Sources */,
-				027D422429BF0A1A00B6168E /* TabBarViewBootcamp2.swift in Sources */,
+				027D422429BF0A1A00B6168E /* CustomTabViewBootcamp2.swift in Sources */,
 				02BFDA1829B49998001B3732 /* StateBootmcamp.swift in Sources */,
 				02BFDA0929B4989F001B3732 /* SwiftUiCookBookApp.swift in Sources */,
 				02ED102429B9C5D1007F9803 /* ButtonBootcamp.swift in Sources */,

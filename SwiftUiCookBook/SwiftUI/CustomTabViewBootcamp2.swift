@@ -27,6 +27,7 @@ struct TabBarViewBootcamp2: View {
                     }.tag(tabitem)
                 }
             }
+            .tabViewStyle(.page(indexDisplayMode: .never))
             VStack {
                 Spacer()
                 MyCustomTabBarView(selectedTab: $selectedTab)

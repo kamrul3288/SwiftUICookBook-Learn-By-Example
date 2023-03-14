@@ -62,7 +62,7 @@ struct SlideMainMenuBootcamp:View{
     var body: some View{
         ZStack{
             GeometryReader{proxy in
-                var sideBarWidth = proxy.size.width * 0.7
+                let sideBarWidth = proxy.size.width * 0.7
                 ZStack(alignment: .top) {
                     Color.white.opacity(0.9)
                     ScrollView{
